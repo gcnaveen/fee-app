@@ -1,0 +1,24 @@
+
+table{
+  margin:auto;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+.amountStyle{
+  width:auto;
+  height:auto;
+  margin-top: 20%;
+}
+.messageStyle{
+  text-transform: capitalize;
+  font:400 16px Inter, sans-serif ;
+  color: rgba(20,20,20, 0.86);
+}
+
+.messageContainer{
+  margin: 20px 0px;
+}
